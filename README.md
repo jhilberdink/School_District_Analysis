@@ -17,7 +17,7 @@ Math, reading, and overall scores all showed slight declines after excluding nin
 ![THS_initial_summary](https://user-images.githubusercontent.com/79542537/112762565-42b31680-8fce-11eb-9930-78ab6f39068a.png)
 
 ![THSupdated](https://user-images.githubusercontent.com/79542537/112762566-447cda00-8fce-11eb-9194-6b95e32e65ed.png)
-- While Thomas High School's test scores declined slightly in the revised analysis, it remians a high-performing school. It retains its spot as the second highest school in the percentage of students passing both math and reading.
+- While Thomas High School's test scores declined slightly in the revised analysis, it remains a high-performing school. It retains its spot as the second highest school in the percentage of students passing both math and reading.
 
 ![image](https://user-images.githubusercontent.com/79542537/112762640-bd7c3180-8fce-11eb-81bd-cc6d9cef9115.png)
 
@@ -34,13 +34,13 @@ Math, reading, and overall scores all showed slight declines after excluding nin
 
 ![revised size](https://user-images.githubusercontent.com/79542537/112765868-3d10fd00-8fdd-11eb-9b75-7d197e4cbba6.png)
   
-- Test results for medium-sized schools also showed a slight decline after dropping THS ninth_grades scores.
+- Test results for medium-sized schools also showed a slight decline after dropping THS ninth-grade scores.
 - 
 ![initial spending](https://user-images.githubusercontent.com/79542537/112765879-4b5f1900-8fdd-11eb-86e0-8d8f31e33509.png)
 
 ![revised spending](https://user-images.githubusercontent.com/79542537/112765881-4d28dc80-8fdd-11eb-9379-89692f3ac95f.png)
 
- - Finally, removing THS ninth_grades scores led to a small decrease in the average test scores for charter schools. 
+ - Finally, removing THS ninth-grade scores led to a small decrease in the average test scores for charter schools. 
  - 
 ![types](https://user-images.githubusercontent.com/79542537/112766278-fe7c4200-8fde-11eb-9bc0-e312a756fd33.png) 
 

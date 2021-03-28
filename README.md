@@ -26,4 +26,4 @@ Math, reading, and overall scores all showed slight declines after excluding nin
 ![types](https://user-images.githubusercontent.com/79542537/112766278-fe7c4200-8fde-11eb-9bc0-e312a756fd33.png)
 ![revised types](https://user-images.githubusercontent.com/79542537/112766195-a0e7f580-8fde-11eb-91a8-0c4fde5e2332.png)
 ## Summary
-After updating the school district analysis, 
+After updating the school district analysis, test scores for the entire district dropped slightly. The impact of removing the ninth-grade THS scores can also been seen in the performance of medium-sized schools, schools in the second highest spending bracket, and charter schools.

@@ -1,6 +1,7 @@
 # School_District_Analysis
 ## Overview of the School District Analysis
 After conducting an initial analysis of school district statistics, evidence was discovered that math and reading scores for ninth-grade students at Thomas High School (THS) had been altered. These ninth-grade scores were dropped and district statistics were recalculated using only tenth through twelfth-grade scores for THS. Below is a summary analysis of the results. For the code used to complete this analysis, see [PyCitySchools](/PyCitySchools_Challenge)
+
 ## Results
 Dropping ninth-grade THS scores had the following effects on the full school district results:
 - The initial district summary showed that 75% of students were passing math, 86% passing reading, and 65% were passing both math and reading
@@ -20,7 +21,7 @@ Math, reading, and overall scores all showed slight declines after excluding nin
 
 ![image](https://user-images.githubusercontent.com/79542537/112762640-bd7c3180-8fce-11eb-81bd-cc6d9cef9115.png)
 
-Dropping Thomas High School ninth-grade scores has the following results on district statistics:
+#### Effect of Dropping THS Ninth-Grade on District Statistics:
 - THS was tied with Pena High School for the highest ninth-grade math and reading scores before excluding its results. Without the scores from THS, the district will show slightly poorer test results from the ninth grade, but other grade levels will remain unaffected. Compare the initial results for math scores by grade with the updated results:
 
 ![results by grade initial](https://user-images.githubusercontent.com/79542537/112765616-f1118880-8fdb-11eb-88e7-9b7ce85401ca.png)

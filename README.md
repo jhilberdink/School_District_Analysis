@@ -13,11 +13,25 @@ Math, reading, and overall scores all showed slight declines after excluding nin
 - While Thomas High School's test scores declined slightly in the revised analysis, it remians a high-performing school. It retains its spot as the second highest school in the percentage of students passing both math and reading.
 ![image](https://user-images.githubusercontent.com/79542537/112762640-bd7c3180-8fce-11eb-81bd-cc6d9cef9115.png)
 - Dropping Thomas High School ninth-grade scores has the following results on district statistics:
-  * THS was tied with Pena High School for the highest ninth-grade math and reading scores before excluding its results. Without the scores from THS, the district will show slightly poorer test results from the ninth grade, but other grade levels will remain unaffected. Compare the initial results for math scores by grade with the updated results:
+* THS was tied with Pena High School for the highest ninth-grade math and reading scores before excluding its results. Without the scores from THS, the district will show slightly poorer test results from the ninth grade, but other grade levels will remain unaffected. Compare the initial results for math scores by grade with the updated results:
+
 ![results by grade initial](https://user-images.githubusercontent.com/79542537/112765616-f1118880-8fdb-11eb-88e7-9b7ce85401ca.png)
+
 ![revised grades](https://user-images.githubusercontent.com/79542537/112765622-fb338700-8fdb-11eb-844b-253232f1423c.png)
-  * Dropping THS ninth-grade scores led to a slight decrease in test scores for schools spending between $630 and $644 per student.![initial size](https://user-images.githubusercontent.com/79542537/112765864-3a160c80-8fdd-11eb-99d4-32bd244076a8.png)![revised size](https://user-images.githubusercontent.com/79542537/112765868-3d10fd00-8fdd-11eb-9b75-7d197e4cbba6.png)
-  - Test results for medium-sized schools also showed a slight decline after dropping THS ninth_grades scores.![initial spending](https://user-images.githubusercontent.com/79542537/112765879-4b5f1900-8fdd-11eb-86e0-8d8f31e33509.png)![revised spending](https://user-images.githubusercontent.com/79542537/112765881-4d28dc80-8fdd-11eb-9379-89692f3ac95f.png)
-  * Finally, removing THS ninth_grades scores led to a small decrease in the average test scores for charter schools.![types](https://user-images.githubusercontent.com/79542537/112766278-fe7c4200-8fde-11eb-9bc0-e312a756fd33.png)![revised types](https://user-images.githubusercontent.com/79542537/112766195-a0e7f580-8fde-11eb-91a8-0c4fde5e2332.png)
+
+   * Dropping THS ninth-grade scores led to a slight decrease in test scores for schools spending between $630 and $644 per student.
+    
+![initial size](https://user-images.githubusercontent.com/79542537/112765864-3a160c80-8fdd-11eb-99d4-32bd244076a8.png)
+
+![revised size](https://user-images.githubusercontent.com/79542537/112765868-3d10fd00-8fdd-11eb-9b75-7d197e4cbba6.png)
+  
+* Test results for medium-sized schools also showed a slight decline after dropping THS ninth_grades scores.
+![initial spending](https://user-images.githubusercontent.com/79542537/112765879-4b5f1900-8fdd-11eb-86e0-8d8f31e33509.png)
+
+![revised spending](https://user-images.githubusercontent.com/79542537/112765881-4d28dc80-8fdd-11eb-9379-89692f3ac95f.png)
+  * Finally, removing THS ninth_grades scores led to a small decrease in the average test scores for charter schools.
+![types](https://user-images.githubusercontent.com/79542537/112766278-fe7c4200-8fde-11eb-9bc0-e312a756fd33.png) 
+
+![revised types](https://user-images.githubusercontent.com/79542537/112766195-a0e7f580-8fde-11eb-91a8-0c4fde5e2332.png)
 ## Summary
 After updating the school district analysis, test scores for the entire district dropped slightly. The impact of removing the ninth-grade THS scores can also been seen in the performance of medium-sized schools, schools in the second highest spending bracket, and charter schools.

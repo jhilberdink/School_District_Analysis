@@ -14,7 +14,8 @@ Math, reading, and overall scores all showed slight declines after excluding nin
 ![image](https://user-images.githubusercontent.com/79542537/112762640-bd7c3180-8fce-11eb-81bd-cc6d9cef9115.png)
 - Dropping Thomas High School ninth-grade scores has the following results on district statistics:
   - THS was tied with Pena High School for the highest ninth-grade math and reading scores before excluding its results. Without the scores from THS, the district will show slightly poorer test results from the ninth grade, but other grade levels will remain unaffected. Compare the initial results for math scores by grade with the updated results:
-![results by grade initial](https://user-images.githubusercontent.com/79542537/112765616-f1118880-8fdb-11eb-88e7-9b7ce85401ca.png)![revised grades](https://user-images.githubusercontent.com/79542537/112765622-fb338700-8fdb-11eb-844b-253232f1423c.png)
+![results by grade initial](https://user-images.githubusercontent.com/79542537/112765616-f1118880-8fdb-11eb-88e7-9b7ce85401ca.png)
+![revised grades](https://user-images.githubusercontent.com/79542537/112765622-fb338700-8fdb-11eb-844b-253232f1423c.png)
   - Dropping THS ninth-grade scores led to a slight decrease in test scores for schools spending between $630 and $644 per student.
 ![initial size](https://user-images.githubusercontent.com/79542537/112765864-3a160c80-8fdd-11eb-99d4-32bd244076a8.png)
 ![revised size](https://user-images.githubusercontent.com/79542537/112765868-3d10fd00-8fdd-11eb-9b75-7d197e4cbba6.png)

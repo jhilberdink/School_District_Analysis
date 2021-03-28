@@ -22,7 +22,7 @@ Math, reading, and overall scores all showed slight declines after excluding nin
 ![initial spending](https://user-images.githubusercontent.com/79542537/112765879-4b5f1900-8fdd-11eb-86e0-8d8f31e33509.png)
 ![revised spending](https://user-images.githubusercontent.com/79542537/112765881-4d28dc80-8fdd-11eb-9379-89692f3ac95f.png)
   - Finally, removing THS ninth_grades scores led to a small decrease in the average test scores for charter schools.
-
+![types](https://user-images.githubusercontent.com/79542537/112766278-fe7c4200-8fde-11eb-9bc0-e312a756fd33.png)
 ![revised types](https://user-images.githubusercontent.com/79542537/112766195-a0e7f580-8fde-11eb-91a8-0c4fde5e2332.png)
 ## Summary
 After updating the school district analysis, 
